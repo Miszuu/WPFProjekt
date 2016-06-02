@@ -22,6 +22,7 @@ namespace wpfProjekt
     {
         public MainWindow()
         {
+            jeszcze arz
             InitializeComponent();
         }
     }
